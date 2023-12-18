@@ -40,8 +40,8 @@
     flex-direction: column;
 }
 .flex-container-foot{
-    border: solid blue;
-    background-color: blue;
+    border: solid rgb(237, 54, 247);
+    background-color: rgb(237, 54, 247);
     width: 100%;
     height: 30px;
     margin-top: 4px;
@@ -74,4 +74,4 @@
     background-color: blueviolet;
     margin-left: 70px;
     margin-top: 70px;
-}
+}   
