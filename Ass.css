@@ -1,0 +1,82 @@
+h3:hover{
+    color: rgb(227, 99, 99);
+    background-color: rgb(242, 242, 242);
+}
+.flex-header{
+    background-color: rgb(102, 213, 213);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+.flex-bord{
+    background-color: rgb(142, 133, 133);
+    display: flex;
+    color: aliceblue;
+    justify-content: row;
+    margin: auto;
+}
+.flex-bord-home{
+    display: flex;
+    text-align: center;
+    margin-right: 50px;
+
+}
+.flex-bord-projects{
+    display: flex;
+    text-align: center;
+    margin-right: 50px;
+}
+.flex-bord-contract{
+    display: ;
+    text-align: center;
+    margin-right: auto;
+}
+.flex-Projects{
+    display: flex;
+    text-align: center;
+    margin: auto;
+}
+.Projects{
+
+}
+.flex-Projectsa{
+    background-color: skyblue;
+    width: 35% ;    
+    height: 500px;
+    display: flex;
+    text-align: center;
+    margin: auto;
+    justify-content: center;
+}
+.flex-Projectsb{
+    background-color: goldenrod;
+    display: flex;
+    text-align: center; 
+    margin: auto;
+    justify-content: center;
+    width: 30% ;
+    height: 500px;
+}
+.flex-Projectsc{
+    background-color: palevioletred;
+    display: flex;
+    text-align: center;
+    margin: auto;
+    justify-content: center;
+    width: 35% ;
+    height: 500px;
+}
+.footer{
+    display: flex;
+    text-align: center;
+    margin: auto;
+    justify-content: center;
+}
+.footers{
+    height: 50px;
+    width: 200px;
+
+}
+
